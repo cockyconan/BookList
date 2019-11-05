@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BookList</string>
+    <string name="createsuccess">新建成功</string>
+    <string name="altersuccess">修改成功</string>
+    <string name="create">新建</string>
+    <string name="alter">修改</string>
+    <string name="delete">删除</string>
+    <string name="about">关于...</string>
+    <string name="delete_watchout">Caution!!!</string>
+    <string name="delete_ask">you sure about deleting it?</string>
+    <string name="delete_sureanswer">yes,kill it!</string>
+    <string name="delete_negativeanswer">No ,my bad!</string>
+    <string name="delete_negativeanswer_curse">you fricking moron!!!</string>
+    <string name="delete_success">delete successfully!!!</string>
+    <string name="delete_selected_toast">delete selected</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
